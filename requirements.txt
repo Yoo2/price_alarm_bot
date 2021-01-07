@@ -3,7 +3,7 @@ async-timeout==1.2.1
 beautifulsoup4==4.6.0
 bs4==0.0.1
 chardet==3.0.3
-lxml==3.7.3
+lxml==4.6.2
 multidict==2.1.5
 PyMySQL==0.7.11
 telepot==11.0
